@@ -14,3 +14,8 @@ The model can be trained by running the model.ipynb file after the setting the t
 # Visualization
 Grad-CAMs visualization has been performed to validate the model's performance along with training and loss curves of the model.
 # Requirements
+Keras(v2.2.2)  
+tensorflow(v1.9.0)  
+keras-vis(v0.4.1)(optional-depends on user)  
+scikit-learn(v0.19.2)  
+mlxtend(v0.13.0)  
